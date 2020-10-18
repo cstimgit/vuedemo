@@ -24,7 +24,7 @@ const state = {
     info:{
       name:'湖南',
       city:'长沙',
-      address:'最美小区在哪里？'
+      address:'最美小区在哪里？猜猜！'
     }
 
   }
