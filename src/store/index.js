@@ -6,7 +6,7 @@ import mutations from '@/store/mutations.js'
 import actions from './actions.js'
 import moduleA from './modules/moduleA.js'
 import getters from './getters.js'
-//1.安装Vuex插件
+//1.安装Vuex插件 状态管理 可以设全局变量
 Vue.use(Vuex)
 
 //2.创建对象

@@ -27,6 +27,7 @@
         //获取当前活动页，显示高亮active
         // console.log('计算'+this.path)
         // console.log('路由'+this.$route.path)
+        // indexOff ---> 如果在数组中没找到字符串则返回 -1
         return this.$route.path.indexOf(this.path) !== -1
       },
       activeStyle(){

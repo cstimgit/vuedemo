@@ -1,3 +1,4 @@
+// 网络请求插件
 import axios from 'axios'
 const a = 20000*(110/100) * (1/100)
 const b = 1-(110/100) * (1/100)
